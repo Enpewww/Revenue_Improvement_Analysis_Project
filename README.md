@@ -1,11 +1,8 @@
 # Revenue Improvement with Pricing Strategies of Applying Discounts Based Strategies
 
 ## Repository Outline
-1. *P0M1_Luthfi_Nadyan_Dataset.csv* - Original dataset from [kaggle](https://www.kaggle.com/datasets/steve1215rogg/e-commerce-dataset/data).
-2. *description.md* - Guideline for this project repository
-3. *df_new.xls* - Cleaned dataset for dashboard visualization in Tableau
-4. *P0M1_Luthfi_Nadyan.ipynb* - Notebook file containing all analysis and visualization for the project
-5. *Dashboard.twb* - Tableau file containing the dashboard and all the used visualization.
+1. *e-commerce_dataset_update.csv* - Original dataset from [kaggle](https://www.kaggle.com/datasets/steve1215rogg/e-commerce-dataset/data).
+2. *P0M1_Luthfi_Nadyan.ipynb* - Notebook file containing all analysis and visualization for the project
 
 ## Problem Background
 As a Data Analyst in the Pricing Strategies Department of a top E-Commerce company, you are tasked with increasing product revenue by 10% over the next quarter. This must be achieved without sacrificing profitability from current discount strategies. To meet this objective, the focus will be on identifying top-performing product categories, evaluating the effectiveness of discounts (discounted vs. non-discounted pricing), and understanding the impact of payment methods on revenue. The ultimate goal is to optimize discount efficiency while preserving or increasing revenue.
@@ -44,7 +41,7 @@ This project using Python libraries such as,
 - import statsmodels.stats.api as sms -> in this analysis use for ANOVA two way test
 - from statsmodels.formula.api import ols -> in this analysis use for ANOVA two way test
 
-## Reference
+## Tableu Dashboard Link
 [P0M1_Luthfi_Nadyan_Dashboard](https://public.tableau.com/app/profile/luthfi.nadyan.putra/viz/Dashboard_17478305213680/VisualizationDashboard?publish=yes) 
 
 **Referensi tambahan:**
