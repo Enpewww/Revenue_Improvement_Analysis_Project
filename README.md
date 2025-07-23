@@ -31,15 +31,15 @@ This project using t-test and ANOVA two-way test for inferential calculation, an
 ## Stacks
 This project using Python libraries such as,
 
-- pandas -> using packages for dataframe manipulation and analysis. 
-- numpy -> used for mathematical and array function
-- matplotlib -> Base of visualization library for seaborn
-- seaborn -> Used for creating charts, stats plots, and other statistics visualization
-- from scipy import stats -> for all statistics build in Pandas
-- from scipy.stats import t -> In this analysis use for T-test statistics
-- import matplotlib.lines as lines -> one of the build in matplotlib for creating background lines
-- import statsmodels.stats.api as sms -> in this analysis use for ANOVA two way test
-- from statsmodels.formula.api import ols -> in this analysis use for ANOVA two way test
+- `pandas`: Using packages for dataframe manipulation and analysis. 
+- `numpy`: Used for mathematical and array function
+- `matplotlib`: Base of visualization library for seaborn
+- `seaborn`: Used for creating charts, stats plots, and other statistics visualization
+- `scipy.stats`: for all statistics build in Pandas
+- `from scipy.stats import t`: In this analysis use for T-test statistics
+- `import matplotlib.lines as lines`: one of the build in matplotlib for creating background lines
+- `import statsmodels.stats.api as sm`: in this analysis use for ANOVA two way test
+- `from statsmodels.formula.api import ols`: in this analysis use for ANOVA two way test
 
 ## Tableu Dashboard Link
 [P0M1_Luthfi_Nadyan_Dashboard](https://public.tableau.com/app/profile/luthfi.nadyan.putra/viz/Dashboard_17478305213680/VisualizationDashboard?publish=yes) 
